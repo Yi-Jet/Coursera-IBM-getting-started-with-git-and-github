@@ -9,7 +9,7 @@ Thank you for your interest in contributing! Your help is valued and appreciated
 
 2. **Clone your fork**  
    ```
-   git clone https://github.com/YOUR-USERNAME/Coursera-IBM-getting-started-with-git-and-github.git
+   git clone https://github.com/Yi-Jet/Coursera-IBM-getting-started-with-git-and-github.git
    cd Coursera-IBM-getting-started-with-git-and-github
    ```
 
